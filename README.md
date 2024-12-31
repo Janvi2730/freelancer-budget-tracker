@@ -18,6 +18,6 @@ python app.py
 c)Access the application at http://localhost:5000.
 
 d)Technologies Used:
-Backend: Python, Flask
-Frontend: HTML, CSS, JavaScript
-Database: SQLite
+i)Backend: Python, Flask
+ii)Frontend: HTML, CSS, JavaScript
+iii)Database: SQLite
